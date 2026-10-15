@@ -4,7 +4,7 @@
 
 An interactive two-page Power BI dashboard analysing sales, profit and customer behaviour for the AdventureWorks sample company (July 2005 to July 2008).
 
-![Sales Overview dashboard](Sales-Overview.png)
+![Sales Overview dashboard](Sales-overview.png)
 
 ![Sales Analysis dashboard](Sales-Analysis.png)
 
@@ -61,6 +61,6 @@ Excel, Power Query, Power BI, DAX
 ## Repository contents 
 * [AdventureWorks Dataset](Power-BI-Project-AdventureWorksxlsx)
 * [PowerBI Project file](Adventureworks-sales-dashboard)
-* [Sales Overview Dashboard](Sales-Overview.png)
+* [Sales Overview Dashboard](Sales-overview.png)
 * [Sales Analysis Dashboard](Sales-Analysis.png)
 * README.md - Project documentation
